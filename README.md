@@ -38,5 +38,4 @@ MIT
 
 ## Author
 
-Yosuke Akatsuka (a.k.a pankona)
-yosuke.akatsuka@gmail.com
+[Yosuke Akatsuka (a.k.a pankona)](yosuke.akatsuka@gmail.com)
