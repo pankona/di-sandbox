@@ -6,7 +6,7 @@ DI について考えるためのリポジトリ written in Go
 
 本リポジトリにおけるモジュール (≒package) は以下。
 
-![modules.svg][images/modules.svg]
+![modules.svg](images/modules.svg)
 
 ## ポイント
 
